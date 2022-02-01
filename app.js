@@ -15,7 +15,7 @@ const game = {
       console.log(this.prevGuesses);
       this.render();
     }
-  }
+  },
   getGuess: function(){
       let guess 
       do {
